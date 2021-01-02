@@ -6,5 +6,5 @@ For the first time, you need to format your namenode, use below command.
 Start hadoop using 
 ```start-all.sh``` 
 start all file is in sbin of hadoop directory. 
-```$cd hadoop/sbin 
-$./start-all.sh```
+```$cd hadoop/sbin```
+```$./start-all.sh```
