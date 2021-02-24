@@ -9,5 +9,5 @@ start all file is in sbin of hadoop directory.
 ```$cd hadoop/sbin```
 ```$./start-all.sh```
 ## Note
-You can change the Hadoop version to download though slight modifications in the script.
+You can change the Hadoop version to download by specifying the version in the script.\n
 Cheers
