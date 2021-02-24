@@ -8,6 +8,6 @@ Start hadoop using
 start all file is in sbin of hadoop directory. 
 ```$cd hadoop/sbin```
 ```$./start-all.sh```
-##Note
+## Note
 You can change the Hadoop version to download though slight modifications in the script.
 Cheers
