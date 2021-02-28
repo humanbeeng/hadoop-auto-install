@@ -1,4 +1,4 @@
-# hadoop-auto-install
+# Hadoop Auto Install
 Install and configure Hadoop 2.6 in a Hadoop Single Cluster Environment in Ubuntu 20 through this shell script in one go. 
 ## Running the script
 For the first time, you need to format your namenode, use below command. 
